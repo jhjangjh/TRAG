@@ -61,7 +61,7 @@ Based on these observations, TRAG introduces a token-level attention guidance ob
 ## 🖼️ Method Overview
 
 <p align="center">
-  <img src="assets/overview.png" width="90%" alt="TRAG overview">
+  <img src="assets/method_final.pdf" width="90%" alt="TRAG overview">
 </p>
 
 <p align="center">
