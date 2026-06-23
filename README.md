@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  🚧 This repository is currently under preparation. 🚧
-</p>
-
 ## 📢 News
 
 - **[2026.XX]** TRAG was accepted to **ECCV 2026**.
