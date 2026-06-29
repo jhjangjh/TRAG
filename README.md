@@ -72,9 +72,6 @@ Planned release:
 
 - [ ] Training code
 - [ ] Evaluation scripts
-- [ ] Attention extraction utilities
-- [ ] Configuration files
-- [ ] Reproduction instructions
 
 More details will be added soon.
 
