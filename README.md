@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv">
+  <a href="https://arxiv.org/abs/2607.02593">
+    <img src="https://img.shields.io/badge/arXiv-2607.02593-b31b1b.svg" alt="arXiv">
   </a>
   <a href="#-citation">
     <img src="https://img.shields.io/badge/Citation-BibTeX-green.svg" alt="Citation">
@@ -14,8 +14,7 @@
 
 ## 📢 News
 
-- **[2026.XX]** TRAG was accepted to **ECCV 2026**.
-- **[2026.XX]** Repository created. Code and reproduction instructions will be released soon.
+- **[2026.06]** TRAG was accepted to **ECCV 2026**.
 
 ## 📌 Overview
 
