@@ -1,0 +1,2 @@
+# Install after torch, using: pip install --no-build-isolation -r requirements/flash-attn.txt
+flash-attn==2.5.7

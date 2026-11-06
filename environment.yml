@@ -1,0 +1,10 @@
+name: trag
+channels:
+  - defaults
+dependencies:
+  - python=3.10.18
+  - pip
+  - pip:
+      # flash-attn 2.5.7 still imports pkg_resources while building.
+      - setuptools==78.1.1
+      - -r requirements.txt

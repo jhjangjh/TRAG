@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Environments and local configuration
+.env
+.venv/
+venv/
+configs/paths.env
+
+# Training outputs and experiment trackers
+/checkpoints/
+/outputs/
+/results/
+/runs/
+/logs/
+/wandb/
+/tensorboard/
+**/checkpoint-*/
+
+# Model weights and large binary artifacts
+*.bin
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+
+# Local datasets
+/data/
+/datasets/
+
+# Editors and OS files
+.DS_Store
+.idea/
+.vscode/

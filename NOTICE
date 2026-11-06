@@ -1,0 +1,12 @@
+TRAG
+Copyright 2026 Jaehyun Jang and TRAG contributors
+
+This product includes software derived from TinyLLaVA Factory
+(https://github.com/TinyLLaVA/TinyLLaVA_Factory), licensed under the Apache
+License, Version 2.0. TRAG modifies the model wrapper, training entry points,
+trainer, configuration arguments, and evaluation code to support multimodal
+knowledge distillation and token-level response-to-vision attention guidance.
+
+This product also contains implementations of comparison objectives based on
+LLaVA-KD and CompoDistill. Their repositories and papers should be cited when
+those comparison modes are used.

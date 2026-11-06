@@ -1,0 +1,4 @@
+# Paper reproduction (core + training + evaluation + tests).
+# flash-attn is installed separately; see README.md and requirements/flash-attn.txt.
+-c requirements.lock.txt
+-e .[train,eval,dev]
