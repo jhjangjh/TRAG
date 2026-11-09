@@ -201,11 +201,13 @@ separately.
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{jang2026trag,
-  title={Token-level Response-visual Attention Guidance for Multimodal LLMs Knowledge Distillation},
-  author={Jang, Jaehyun and Yoon, Eunseop and Yoon, Hee Suk and Eom, SooHwan and Hasegawa-Johnson, Mark A. and Yoo, Chang D.},
-  journal={arXiv preprint arXiv:2607.02593},
-  year={2026}
+@inproceedings{jang2026token,
+  title={Token-Level Response-Visual Attention Guidance for Multimodal LLMs Knowledge Distillation},
+  author={Jang, Jaehyun and Yoon, Eunseop and Yoon, Hee Suk and Eom, SooHwan and Hasegawa-Johnson, Mark A and Yoo, Chang D},
+  booktitle={European Conference on Computer Vision},
+  pages={643--660},
+  year={2026},
+  organization={Springer}
 }
 ```
 
